@@ -1,0 +1,62 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It simplied the changes between a functional code and a non-functional code.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    You can be more confident about making changes and retrace to old version to take a new direction
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+   You can have intential checkpoints and a limited number of versions to compare; you can be more intentional about versions.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    If the files work togehter, this may be useful.
+	
+How can you use the commands git log and git diff to view the history of files?
+
+   
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    You will have a copy of the last working version.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+
+What do you think are the pros and cons of manually choosing when to create
+a commit, like you do in Git, vs having versions automatically saved, like
+Google Docs does?
+
+	Commits have a logical, functional differences instead of arbitaray difference.
+	
+Why do you think some version control systems, like Git, allow saving multiple files
+in one commit, while others, like Google Docs, treat each file separately?	
+
+	Each file in a commit can be viewd together, rather than having ralated files committed
+	at difference stages.
+	
+How can you use the commands git log and git diff to view the history of files?
+
+	Git log will show IDs for each commit with a comment, git diff will allow you to
+	see a summary of the specific changes between two specific versions.
+	
+How might using version control make you more confident to make changes that
+could break something?
+
+	You always have the option of working your way backthrough the tree in order to find where
+	a mistake was made and continue from that unbuggy point.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	Understanding how to use GitHub
+
+	
